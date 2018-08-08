@@ -1,0 +1,2 @@
+# flaskMongoDbNewsApp
+python使用flask框架以及连接MongoDB数据库实现新闻Webapp
