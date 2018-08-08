@@ -1,2 +1,2 @@
 # flaskMongoDbNewsApp
-python使用flask框架以及连接MongoDB数据库实现新闻Webapp
+Based on the Python language, the Flask framework uses the Mongodb database to manage the data tables. In addition, the front-end uses the bootstrap framework to implement the front-end and back-end pages. a web app. 基于Python语言，Flask框架，利用MOngodb数据库管理数据表，另外前端使用了bootstrap框架实现前端和后台页面，制作成了 一个web app.
